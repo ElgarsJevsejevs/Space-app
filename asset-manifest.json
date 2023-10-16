@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Space-app/static/css/main.90b3ab09.css",
+    "main.css": "/Space-app/static/css/main.792ec0c1.css",
     "main.js": "/Space-app/static/js/main.00912181.js",
     "static/media/image-victor-glover.png": "/Space-app/static/media/image-victor-glover.8a9a5424588b73ec61c2.png",
     "static/media/image-anousheh-ansari.png": "/Space-app/static/media/image-anousheh-ansari.2d647128496ddc638acd.png",
@@ -22,7 +22,6 @@
     "static/media/image-space-capsule-portrait.jpg": "/Space-app/static/media/image-space-capsule-portrait.dd0ac138afef98c1666a.jpg",
     "static/media/image-space-capsule-landscape.jpg": "/Space-app/static/media/image-space-capsule-landscape.d672da81d5ff3ada7301.jpg",
     "static/media/image-launch-vehicle-portrait.jpg": "/Space-app/static/media/image-launch-vehicle-portrait.0c758955a178bdcc3230.jpg",
-    "static/media/background-home-mobile.jpg": "/Space-app/static/media/background-home-mobile.13f7adecbcb3c3f170d8.jpg",
     "static/media/background-technology-tablet.jpg": "/Space-app/static/media/background-technology-tablet.48c38b028217ee0096c4.jpg",
     "static/media/image-launch-vehicle-landscape.jpg": "/Space-app/static/media/image-launch-vehicle-landscape.4281a59ff7186488fe6a.jpg",
     "static/media/background-destination-mobile.jpg": "/Space-app/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
@@ -30,11 +29,11 @@
     "static/media/logo.svg": "/Space-app/static/media/logo.565f7f2c0534403f11b71994f4311210.svg",
     "static/media/icon-close.svg": "/Space-app/static/media/icon-close.d47fda63cbd8b3fedbbc1b2a53f64470.svg",
     "static/media/icon-hamburger.svg": "/Space-app/static/media/icon-hamburger.5273efa7c50e96ef3e51e7a2b54048ce.svg",
-    "main.90b3ab09.css.map": "/Space-app/static/css/main.90b3ab09.css.map",
+    "main.792ec0c1.css.map": "/Space-app/static/css/main.792ec0c1.css.map",
     "main.00912181.js.map": "/Space-app/static/js/main.00912181.js.map"
   },
   "entrypoints": [
-    "static/css/main.90b3ab09.css",
+    "static/css/main.792ec0c1.css",
     "static/js/main.00912181.js"
   ]
 }
